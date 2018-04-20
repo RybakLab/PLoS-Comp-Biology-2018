@@ -1,0 +1,46 @@
+.divider {
+  margin-top:5px;
+}
+
+body {
+  background-color: beige;
+}
+
+
+.header-no-top {
+  margin-top: 5px;
+}
+
+.main-frame {
+  margin: 20;
+  background-color: white;
+  padding: 15px;
+  border-radius: 32px;
+}
+
+.page-heading {
+  text-align: center;
+  color: #3366cc;
+}
+
+
+.lead-sm {
+  font-size: 1.1em;
+  line-height: 1.5em;
+}
+
+.bold-subheading {
+  font-weight: bold;
+}
+
+ul.list-spaced li {
+  padding: 5px 0;
+}
+
+.blue { color: blue; }
+.green { color: green; }
+
+.publication-header-image {
+  height: 40px;
+  margin: 5px 5px 20px 5px;;
+}

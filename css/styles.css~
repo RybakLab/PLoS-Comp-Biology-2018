@@ -1,0 +1,155 @@
+.page-header {
+    margin-top: 0;
+}
+
+.panel-body {
+    padding-top: 0;
+
+}
+
+.bod-font {
+	font-family: Georgia;
+}
+
+
+
+.featureImg {
+    margin-bottom: 0px;
+}
+
+
+.bground {
+    background-color: #FFFFFF;
+}
+
+
+
+
+.container {
+    margin-bottom: 0px;
+}
+
+.navbar-nav {
+    display:table;
+    width:100%;
+    margin: 0;
+
+}
+.navbar-nav > li {
+    display:table-cell;
+    text-align:center;
+
+}
+
+.navbar-a {
+    font-size: 18px;	
+}
+
+.jumbotron {
+    padding-bottom: 0px;
+    padding-top: 0px;
+    width: 100%;
+}
+
+.navbar {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    max-height: 30px;
+}
+
+.IlyaImg {
+    margin-bottom: 0px;
+}
+
+.container2 {
+    margin-left: 30px;
+	margin-right: 30px;
+}
+
+.container3 {
+    margin-left: 0px;
+	margin-right: 0px;
+}
+
+.vertical-center {
+  min-height: 50%;  /* Fallback for browsers do NOT support vh unit */
+  min-height: 50vh; /* These two lines are counted as one :-)       */
+
+  display: flex;
+  align-items: center;
+}
+
+
+.col-off {
+	margin-top: -20px;
+}
+
+.text-up {
+	margin-top: -10px;
+}
+
+.col-wid1 {
+	min-width: 270px;
+}
+
+.col-wid2 {
+	max-width: 271px;
+}
+
+.col-right {
+	margin-left: 0px;
+}
+
+.col-right2 {
+	margin-left: 80px;
+}
+
+.col-right3 {
+	margin-left: 0px;
+}
+
+.h4-a {
+	font-size: 15px;
+}
+.col-wid3 {
+	min-width: 315px;
+}
+
+.col-wid4 {
+	max-width: 316px;
+}
+
+.col-wid5 {
+	min-width: 165px;
+}
+
+.col-wid6 {
+	max-width: 166px;
+
+}
+
+.col-wid7 {
+	min-width: 900px;
+}
+
+.col-wid8 {
+	max-width: 901px;
+}
+
+.col-wid9 {
+	min-width: 800px;
+}
+
+.col-wid10 {
+	max-width: 801px;
+}
+
+.h3-b {
+	font-size: 22px;
+}
+
+.blue { color: blue; }
+.green { color: green; }
+.bold {font:weight: bold;}
+
+
